@@ -1,0 +1,2 @@
+RDC_Inventory_Core_Metrics_County_History.csv: https://www.realtor.com/research/data/
+RDC_Inventory_Hotness_Metrics_County_History: https://www.realtor.com/research/data/
