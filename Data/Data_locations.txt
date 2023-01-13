@@ -1,2 +1,9 @@
 RDC_Inventory_Core_Metrics_County_History.csv: https://www.realtor.com/research/data/
 RDC_Inventory_Hotness_Metrics_County_History: https://www.realtor.com/research/data/
+bls-emp_by_cfips.csv: https://download.bls.gov/pub/time.series/la/
+Corporate_tax_rate.csv: https://www.richstatespoorstates.org/variables/corporate_income_tax_rate/
+FY2019_50_County_rev.xlsx : https://www.huduser.gov/portal/datasets/50per.html#2019
+FY2020_50_County_rev.xlsx : https://www.huduser.gov/portal/datasets/50per.html#2020
+FY2021_50_County.xlsx : https://www.huduser.gov/portal/datasets/50per.html#2021
+FY2022_FMR_50_county_rev.xlsx : https://www.huduser.gov/portal/datasets/50per.html#2022
+FY2023_FMR_50_county.xlsx: https://www.huduser.gov/portal/datasets/50per.html#2023
