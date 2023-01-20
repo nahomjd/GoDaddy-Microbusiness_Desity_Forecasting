@@ -7,3 +7,4 @@ FY2020_50_County_rev.xlsx : https://www.huduser.gov/portal/datasets/50per.html#2
 FY2021_50_County.xlsx : https://www.huduser.gov/portal/datasets/50per.html#2021
 FY2022_FMR_50_county_rev.xlsx : https://www.huduser.gov/portal/datasets/50per.html#2022
 FY2023_FMR_50_county.xlsx: https://www.huduser.gov/portal/datasets/50per.html#2023
+unemployment.xlsx: https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/
